@@ -1,0 +1,7 @@
+version: '1'
+type: 'etl'
+
+component:
+  name : movie-rating
+  owner : Dheeraj
+  description : Test program for data transformation

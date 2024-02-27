@@ -1,0 +1,12 @@
+.idea
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+output/
+.output/
+build/
+.build/
+*.pyc
+.coverage
+.DS_Store

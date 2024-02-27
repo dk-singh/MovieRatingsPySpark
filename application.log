@@ -1,0 +1,15 @@
+2024-02-27 18:53:48,460 - INFO - Start the application
+2024-02-27 18:53:48,461 - INFO - Create the spark session
+2024-02-27 18:54:03,365 - INFO - Reading movie data..
+2024-02-27 18:54:23,738 - INFO - Total movie records sourced : 3883
+2024-02-27 18:54:23,741 - INFO - Reading ratings data..
+2024-02-27 18:54:26,725 - INFO - Total rating records sourced : 1000209
+2024-02-27 18:54:26,726 - INFO - Reading user data..
+2024-02-27 18:54:28,259 - INFO - Total user records sourced : 6040
+2024-02-27 18:54:28,259 - INFO - Generating movie ratings..
+2024-02-27 18:54:38,875 - INFO - Total records in ratings : 3706
+2024-02-27 18:54:38,877 - INFO - Generating top three movie for each user..
+2024-02-27 18:54:52,731 - INFO - Total records in top three movie : 18120
+2024-02-27 18:54:52,733 - INFO - Writing output to parquet file ..
+2024-02-27 18:55:48,508 - INFO - Stopping Spark Session ..
+2024-02-27 18:55:49,287 - INFO - -- End of Process --
